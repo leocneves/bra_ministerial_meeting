@@ -10,6 +10,6 @@ The CNN Brasil published the [news](https://www.cnnbrasil.com.br/politica/2020/0
 
 O foco deste trabalho é explorar o **áudio transcrito** do vídeo anunciado recentemente sobre uma das **Reuniões Ministeriais do Brasil** que foi divulgada sob ordem judicial.
 
-A CNN Brasil publicou o [artigo](https://www.cnnbrasil.com.br/politica/2020/05/22/assista-ao-video-da-reuniao-ministerial-com-bolsonaro) e o vídeo pode ser encontrado [aqui](https://www.youtube.com/watch?v=TjndWfgiRQQ). Para transcrever o áudio, eu usei o botão do YouTube que gera automaticamente o texto sobre o vídeo e tratei-o com pandas. O texto pode ser encontrado [aqui] (https://github.com/leocneves/bra_ministerial_meeting/blob/master/dataset/reuniao_ministerial.csv).
+A CNN Brasil publicou o [artigo](https://www.cnnbrasil.com.br/politica/2020/05/22/assista-ao-video-da-reuniao-ministerial-com-bolsonaro) e o vídeo pode ser encontrado [aqui](https://www.youtube.com/watch?v=TjndWfgiRQQ). Para transcrever o áudio, eu usei o botão do YouTube que gera automaticamente o texto sobre o vídeo e tratei-o com pandas. O texto pode ser encontrado [aqui](https://github.com/leocneves/bra_ministerial_meeting/blob/master/dataset/reuniao_ministerial.csv).
 
 ***
